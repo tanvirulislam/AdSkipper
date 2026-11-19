@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdSkipper</string>
+    <string name="service_description">Clicks the Skip ads button in the YouTube app when it appears. It only reads the YouTube screen and sends nothing anywhere.</string>
+</resources>
